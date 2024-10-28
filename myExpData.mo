@@ -3,7 +3,7 @@ actor {
 // ###### TASK 1 ########
 // Entering important data into Blockchain
 
-let myData : Text = "This will be my data string!"; //set a constant with 'let'
+    let myData : Text = "This will be my data string!"; //set a constant with 'let'
 
 
 // ###### TASK 2 ########
